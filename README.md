@@ -14,3 +14,5 @@ Installing Pandas and Tkinter libraries (type python -m pip install and the name
 
 # Usage
 Download the CSV files from the triangulation analysis on GEDmatchPRO to use for triangulation analysis. For the X-chromosome matrix, download the One-to-Many CSV file (it is recommended to increase the search limits to the highest number of kits possible).
+
+# Citation
