@@ -20,4 +20,4 @@ Download the CSV files from the triangulation analysis on GEDmatchPRO to use for
 If you use this software in your research or project, please cite it as follows:
 
 ```text
-Lima, L., Weber, L., & Nunes, M. (2026). Gedmatch-python-helper (Version 1.0.0). GitHub. [https://github.com/Lais-bioinfo/Gedmatch-python-helper](https://github.com/Lais-bioinfo/Gedmatch-python-helper)
+Lima, L., Weber, L., & Nunes, M. (2026). Gedmatch-python-helper (Version 1.0.0). GitHub. (https://github.com/Lais-bioinfo/Gedmatch-python-helper)
